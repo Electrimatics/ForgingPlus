@@ -1,0 +1,2 @@
+# ForgingPlus
+My first Minecraft mod that adds new ore generation to the world and the corresponding armor, tools, weapons, and more.  This project is liscensed under the GNU General Public License v3.0, so feel free to use this mod in any modpack or write any addons.  If you do so, please credit the author(s) of the mod and/or addons and link the page you downloaded the mod from (ie. CurseForge, GitHub, etc.). 
